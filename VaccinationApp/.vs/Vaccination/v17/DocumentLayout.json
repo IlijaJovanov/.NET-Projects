@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\VaccinationApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\user\\desktop\\vaccinationapp\\integratedsystems.web\\views\\patients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\views\\patients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\user\\desktop\\vaccinationapp\\integratedsystems.web\\views\\vaccinationcenters\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\views\\vaccinationcenters\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|c:\\users\\user\\desktop\\vaccinationapp\\integratedsystems.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|solutionrelative:integratedsystems.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VaccinationApp\\IntegratedSystems.Web\\Views\\Patients\\Details.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\Patients\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\VaccinationApp\\IntegratedSystems.Web\\Views\\Patients\\Details.cshtml",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\Patients\\Details.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T16:23:52.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VaccinationApp\\IntegratedSystems.Web\\Views\\VaccinationCenters\\Details.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\VaccinationCenters\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\VaccinationApp\\IntegratedSystems.Web\\Views\\VaccinationCenters\\Details.cshtml",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\VaccinationCenters\\Details.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T16:23:48.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VaccinationApp\\IntegratedSystems.Repository\\Implementation\\Repository.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Repository\\Implementation\\Repository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\VaccinationApp\\IntegratedSystems.Repository\\Implementation\\Repository.cs",
+              "RelativeToolTip": "IntegratedSystems.Repository\\Implementation\\Repository.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:23:41.518Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

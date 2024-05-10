@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\IntegratedSystemsExam\IntegratedSystemsExam\IntegratedSystems.Domain\bin\Debug\net8.0\IntegratedSystems.Domain.deps.json
+C:\Users\User\Desktop\IntegratedSystemsExam\IntegratedSystemsExam\IntegratedSystems.Domain\bin\Debug\net8.0\IntegratedSystems.Domain.dll
+C:\Users\User\Desktop\IntegratedSystemsExam\IntegratedSystemsExam\IntegratedSystems.Domain\bin\Debug\net8.0\IntegratedSystems.Domain.pdb
+C:\Users\User\Desktop\IntegratedSystemsExam\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\IntegratedSystemsExam\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\IntegratedSystemsExam\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\IntegratedSystemsExam\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\IntegratedSystemsExam\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IntegratedSystemsExam\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.dll
+C:\Users\User\Desktop\IntegratedSystemsExam\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\refint\IntegratedSystems.Domain.dll
+C:\Users\User\Desktop\IntegratedSystemsExam\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.pdb
+C:\Users\User\Desktop\IntegratedSystemsExam\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\ref\IntegratedSystems.Domain.dll
